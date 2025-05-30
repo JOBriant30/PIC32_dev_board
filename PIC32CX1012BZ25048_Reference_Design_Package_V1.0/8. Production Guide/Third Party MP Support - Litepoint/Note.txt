@@ -1,0 +1,1 @@
+The IQfact+ software package for PIC32MZ-W1 device will be supported on all IQxel series of tester. Contact Litepoint for more details.

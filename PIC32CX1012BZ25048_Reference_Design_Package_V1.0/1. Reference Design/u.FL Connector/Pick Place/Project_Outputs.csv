@@ -1,0 +1,53 @@
+Altium Designer Pick and Place Locations
+D:\Chimera RDP Important\Vel_Working\For RTP Release\PIC32CX1012BZ25048_ ReferenceDesign\PIC32CX1012BZ25048_ RD_UFL-Antenna\Project_Outputs\Pick Place\Project_Outputs.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       03/10/22
+Time:       17:21
+Revision:   Not in VersionControl
+Variant:    UFL_ANTENNA
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"R1","Resistor","TopLayer","RES_C_0201","7.2490","13.2419","90","RES SMD 10K OHM 1% 1/20W 0201"
+"FB3","Ferrite Bead","TopLayer","IND_C_0201","9.0086","13.6737","90","FERRITE BEAD 240 OHM 0201 1LN"
+"L3","IND1682","TopLayer","IND_C_0402","11.9888","3.6576","180","RES 0 OHM JUMPER 1/16W 0402"
+"J2","SHIELD","TopLayer","RF_SHIELD","7.6659","7.7250","0","RF SHIELD"
+"TP1","TP","BottomLayer","TP\0P8","3.5152","9.0425","90","TEST POINT"
+"L2","Inductor","TopLayer","IND_C_0201","13.6163","6.8002","90","FIXED IND 1.8NH 800MA 80MOHM SMD"
+"C13","CAP1203_0.1uF","TopLayer","CAP_C_0201","11.7179","9.5504","180","CAP CER 0.1UF 16V X5R 0201"
+"TP2","TP","BottomLayer","TP\0P8","5.2832","3.5814","270","TEST POINT"
+"L7","CAP1535_22pF","TopLayer","CAP_C_0201","13.6161","9.7942","90","CAP CER 22PF 50V C0G/NP0 0201"
+"J1","CON1556","TopLayer","CONN_MICRO-COAXIAL_RECEPTACLE_V-SMD3-H1.25","14.4935","12.6995","0","CONN U.FL RCPT STR 50 OHM SMD"
+"C9","CAP1203_0.1uF","TopLayer","CAP_C_0201","1.9404","9.3219","0","CAP CER 0.1UF 16V X5R 0201"
+"C30","Capacitor NP","TopLayer","CAP_C_0201","10.6401","2.2079","270","CAP CER 8.2PF 25V C0G/NP0 0201"
+"C29","Capacitor NP","TopLayer","CAP_C_0201","7.5173","2.3265","90","CAP CER 8.2PF 25V C0G/NP0 0201"
+"C14","CAP1203_1uF_1","TopLayer","CAP_C_0201","10.6686","3.6576","90","CAP CER 1UF 10V X5R 0201"
+"C15","CAP1203_1uF_1","TopLayer","CAP_C_0201","6.4580","3.3528","90","CAP CER 1UF 10V X5R 0201"
+"C11","CAP1203_0.1uF","TopLayer","CAP_C_0201","5.6362","3.6068","90","CAP CER 0.1UF 16V X5R 0201"
+"L1","Inductor","TopLayer","IND_C_0805","2.8702","13.3874","180","FIXED IND 4.7UH 1.2A 275MOHM SMD 0805"
+"R4","Resistor","TopLayer","RES_C_0201","6.7358","2.0834","90","RES SMD 30K OHM 1% 1/20W 0201"
+"XC1","Crystal_2mm_1.6mm","TopLayer","AP7-00104","9.0990","2.7478","270","CRYSTAL 16.0000MHZ 8PF SMD"
+"FB1","Ferrite Bead","TopLayer","IND_C_0402","1.7546","6.0310","90","FERRITE BEAD 330 OHM 1.2A 0402 1LN"
+"C5","CAP1766","TopLayer","CAP_C_0402","10.3124","13.1826","180","CAP CER 10UF 6.3V X5R 0402"
+"C16","CAP1203_1uF_1","TopLayer","CAP_C_0201","7.2633","3.3528","90","CAP CER 1UF 10V X5R 0201"
+"C17","CAP1203_1uF_1","TopLayer","CAP_C_0201","11.3940","4.7498","90","CAP CER 1UF 10V X5R 0201"
+"C18","CAP1203_1uF_1","TopLayer","CAP_C_0201","11.4808","8.2042","270","CAP CER 1UF 10V X5R 0201"
+"C8","CAP1766","TopLayer","CAP_C_0402","2.0420","8.0265","270","CAP CER 10UF 6.3V X5R 0402"
+"R2","Resistor","TopLayer","RES_C_0201","11.7179","10.8458","180","RES SMD 10K OHM 1% 1/20W 0201"
+"C10","CAP1766","TopLayer","CAP_C_0402","2.0420","11.5063","90","CAP CER 10UF 6.3V X5R 0402"
+"TP3","RF_TP","BottomLayer","RF-TP\P_D1.2\S_W1.0_R1.7_2/3","13.3599","8.5622","270","RF TP"
+"C19","Capacitor NP","TopLayer","CAP_C_0201","12.1154","6.2752","270","CAP CER 1PF 25V C0G/NP0 0201"
+"U1","PIC32CX1012BZ25048","TopLayer","QFN-48_7X7","6.9950","8.4329","0","IC SIP 1M MCU BT5 ZigBee Radio QFN48"
+"C7","CAP1203_0.1uF","TopLayer","CAP_C_0201","2.5316","6.4983","90","CAP CER 0.1UF 16V X5R 0201"
+"C2","CAP1203_0.1uF","TopLayer","CAP_C_0201","8.7461","12.9286","180","CAP CER 0.1UF 16V X5R 0201"
+"C3","CAP1203_4.7uF","TopLayer","CAP_C_0201","2.0420","10.2871","0","CAP CER 4.7UF 6.3V X5R 0201"
+"C4","CAP1203_1uF_2","TopLayer","CAP_C_0201","4.8106","13.0557","270","CAP CER 1UF 10V X5R 0201"
+"C6","CAP1203_0.1uF","TopLayer","CAP_C_0201","11.7094","11.4300","180","CAP CER 0.1UF 16V X5R 0201"
+"C12","CAP1203_1uF_1","TopLayer","CAP_C_0201","5.1266","3.6068","90","CAP CER 1UF 10V X5R 0201"
+"C25","Capacitor NP","TopLayer","CAP_C_0201","13.0524","6.2752","90","CAP CER 2.2PF 50V C0G/NP0 0201"
+"C26","Capacitor NP","TopLayer","CAP_C_0201","13.3538","7.5090","0","CAP CER 1.8PF 50V C0G/NP0 0201"
+"C27","Capacitor NP","TopLayer","CAP_C_0201","11.8529","7.1053","180","CAP CER 3PF 25V C0G/NP0 0201"
+"R3","Resistor","TopLayer","RES_C_0201","11.7179","10.1398","180","RES SMD 0 OHM JUMPER 1/20W 0201"

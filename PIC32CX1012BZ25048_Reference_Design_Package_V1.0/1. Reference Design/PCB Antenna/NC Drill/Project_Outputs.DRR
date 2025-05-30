@@ -1,0 +1,17 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PIC32CX1012BZ25048_RD_PCB_ANTENNA.PcbDoc   10/3/2022  5:15:28 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Project_Outputs-RoundHoles.TXT
+ASCII SlotHoles File : Project_Outputs-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.152mm (6mil)                                            Round             299       PTH        238.68mm (9.40inch)
+T2      0.203mm (8mil)                                            Round             16        PTH        46.94mm (1.85inch)
+T3      0.55mm (22mil)                                            Slot              3         NPTH       63.35mm (2.49inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              318
+
+Total Processing Time (hh:mm:ss) : 00:00:01
